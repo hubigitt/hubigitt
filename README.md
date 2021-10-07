@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hubigitt
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on coding templates
+- 🌱 I’m currently learning JavaScript, React, Java and MySQL.
+- 💞️ I’m looking to collaborate Front End Projects.
 - 📫 How to reach me email: hubert.wikalinski@gmail.com
 
 <!---
