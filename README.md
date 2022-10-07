@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hubigitt
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React and Vue.
+- 👀 Just writing dirty code for satisfaction
+- 🌱 I’m currently working React and Vue
 - 📫 How to reach me email: hubert.wikalinski@gmail.com
 
 <!---
